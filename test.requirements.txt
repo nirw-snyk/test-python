@@ -1,1 +1,2 @@
 anyio==4.4.0
+jupyter-server==1.24.0
